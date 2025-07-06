@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RouteCourses" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="statusBarBackground">@color/black</item>
+    </style>
+
+    <style name="ButtonsLabels" >
+        <item name="android:background">@drawable/button_label</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor"> @color/white</item>
+        <item name="android:textStyle"> bold</item>
+        <item name="android:layout_marginTop">5dp</item>
+    </style>
+
+    <style name="CoursesContent">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor"> @color/white</item>
+        <item name="android:textStyle"> bold</item>
+        <item name="android:layout_marginTop">10dp</item>
+    </style>
+
+</resources>

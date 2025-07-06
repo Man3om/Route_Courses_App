@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_course">ANDROID COURSE</string>
+    <string name="ios_course">IOS COURSE</string>
+    <string name="full_stack">FULL STACK</string>
+</resources>
